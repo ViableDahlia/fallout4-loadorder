@@ -1,5 +1,5 @@
 # Viable Dahlia's Base Load Order
-#### *Fallout 4: Anniversary Edition (AE)*
+#### *Fallout 4: Anniversary Edition (AE) - 1.11.191*
 
 - Modified from [The Midnight Ride](https://themidnightride.moddinglinked.com/index.html) (TMR)
 - Managed in [Mod Organizer 2](https://www.modorganizer.org/) (MO2).
