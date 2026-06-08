@@ -675,14 +675,14 @@ Okay, enough preamble. <b><i>Allons-y!</i></b>
     </tr>
     <tr>
       <td colspan="1" rowspan="2">Core Game Fixes & Frameworks - Load Last</td>
-      <td><a href="https://www.nexusmods.com/fallout4/mods/60074">PRP</a></td>
+      <td><a href="https://www.nexusmods.com/fallout4/mods/67185">TMR Pre-Generated LOD</a></td>
       <td>259</td>
-      <td>prp.esm</td>
+      <td>TMR Pre-Generated LOD.esp</td>
     </tr>
     <tr>
-      <td><a href="https://www.nexusmods.com/fallout4/mods/67185">TMR Pre-Generated LOD</a></td>
+      <td><a href="https://www.nexusmods.com/fallout4/mods/60074">PRP</a></td>
       <td>260</td>
-      <td>TMR Pre-Generated LOD.esp</td>
+      <td>prp.esm</td>
     </tr>
   </tbody>
 </table>
